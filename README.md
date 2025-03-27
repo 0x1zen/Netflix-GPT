@@ -1,0 +1,14 @@
+Features:-
+    -Login/Signup Page:-
+        -Signin/SIgnup form
+        -Redirect to browser Page
+    -Browse:-
+        -Header
+        -Main Movie
+            -Trailer in the background
+            -TItle and Description
+            -Movie Suggestions
+                -movies list
+    -Netflix GPT:-
+        -Seach Bar
+        -Movies Sugesstions 
