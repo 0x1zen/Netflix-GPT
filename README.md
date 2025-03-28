@@ -2,6 +2,7 @@ Features:-
     -Login/Signup Page:-
         -Signin/SIgnup form
         -Redirect to browser Page
+    -Signup Form
     -Browse:-
         -Header
         -Main Movie
