@@ -2,15 +2,10 @@ import { NETFLIX_LOGO } from "../utils/constants";
 
 const Header = () => {
   return (
-    <div className='absolute flex m-2 justify-between'>
+    <div className='absolute z-10 flex w-full justify-between text-white px-8 py-2 bg-gradient-to-b  from-black'>
         <div>
-            <img className='w-10 h-10' src={NETFLIX_LOGO}></img>
+            <img className='w-40 h-10' src={NETFLIX_LOGO} alt="logo"></img>
         </div>
-        <ul className='flex'>
-            <li>Home</li>
-            <li>GPT</li>
-            <li>Login</li>
-        </ul>
     </div>
   )
 }
