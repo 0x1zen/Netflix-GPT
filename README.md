@@ -28,3 +28,15 @@ const email=useRef(null);
 -here null is the initial value.
 <!-- <input ref={email} placeholder="Email"> -->
 
+How to deploy using firebase:-
+npm i -g firebase-tools (fore firebase cli tools)
+npm install firebase
+
+create a firebase.js file in utils.
+
+Build npm run build 
+
+run firebase init and set the public directory as dist for vite
+
+and the run firebase deploy
+
